@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace harvestsharp.test
+namespace HarvestSharp.test
 {
     [TestClass]
     public class HarvestTest : BaseTest

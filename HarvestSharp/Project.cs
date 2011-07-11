@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace harvestsharp
+namespace HarvestSharp
 {
     //class for converting harvest projects json resources into strongly typed object
     public class HarvestProject

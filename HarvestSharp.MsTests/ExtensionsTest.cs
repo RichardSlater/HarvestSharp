@@ -1,9 +1,9 @@
-﻿using harvestsharp;
+﻿using HarvestSharp;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Xml.Linq;
 
-namespace harvestsharp.test
+namespace HarvestSharp.test
 {
     [TestClass()]
     public class ExtensionsTest

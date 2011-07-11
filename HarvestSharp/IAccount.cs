@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace harvestsharp
+namespace HarvestSharp
 {
     public interface IAccount
     {

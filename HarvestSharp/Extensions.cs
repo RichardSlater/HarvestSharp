@@ -4,7 +4,7 @@ using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Serialization;
 
-namespace harvestsharp
+namespace HarvestSharp
 {
     public static class Extensions
     {

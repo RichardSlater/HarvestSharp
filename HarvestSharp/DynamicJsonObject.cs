@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Dynamic;
 using System.Linq;
 
-namespace harvestsharp
+namespace HarvestSharp
 {
     public class DynamicJsonObject : DynamicObject
     {

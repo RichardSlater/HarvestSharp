@@ -6,7 +6,7 @@ using System.Web;
 using System.Security.Cryptography.X509Certificates;
 using System.Net.Security;
 
-namespace harvestsharp
+namespace HarvestSharp
 {
     public class Account : IAccount
     {
@@ -87,7 +87,7 @@ namespace harvestsharp
             SetAuthHeader(GetEncodedCredentials(), client);
             client.Headers.Add("Content-Type", "application/xml");
             client.Headers.Add("Accept", "application/xml");
-            client.Headers.Add("User-Agent", "harvestsharp");
+            client.Headers.Add("User-Agent", "HarvestSharp");
 
             if (!String.IsNullOrEmpty(postData)) {
                 Byte[] postbytes = Encoding.ASCII.GetBytes(postData);

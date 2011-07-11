@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Web.Script.Serialization;
 
-namespace harvestsharp
+namespace HarvestSharp
 {
     public class DynamicJsonConverter : JavaScriptConverter
     {

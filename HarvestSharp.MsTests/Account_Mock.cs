@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace harvestsharp.test
+namespace HarvestSharp.test
 {
     public class Account_Mock : IAccount
     {

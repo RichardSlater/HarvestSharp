@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Web.Script.Serialization;
 using System.Collections;
 
-namespace harvestsharp
+namespace HarvestSharp
 {
     public class Harvest
     {

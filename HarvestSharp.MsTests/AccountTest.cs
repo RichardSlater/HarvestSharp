@@ -2,7 +2,7 @@
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace harvestsharp.test
+namespace HarvestSharp.test
 {
     [TestClass()]
     public class AccountTest : BaseTest
