@@ -8,8 +8,8 @@
     <ProjectGuid>{815EF8BD-75DF-411A-85B9-4946987DEC1D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>harvestsharp</RootNamespace>
-    <AssemblyName>harvestsharp</AssemblyName>
+    <RootNamespace>HarvestSharp</RootNamespace>
+    <AssemblyName>HarvestSharp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

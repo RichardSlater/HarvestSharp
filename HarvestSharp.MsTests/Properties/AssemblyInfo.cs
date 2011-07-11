@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("harvestsharp.test")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("HarvestSharp MsTest")]
+[assembly: AssemblyDescription("HarvestSharp MsTests")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("harvestsharp.test")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
+[assembly: AssemblyCompany("The HarvestSharp Team")]
+[assembly: AssemblyProduct("HarvestSharp")]
+[assembly: AssemblyCopyright("©2011 Billy Coover")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
