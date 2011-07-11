@@ -63,9 +63,9 @@
     <Shadow Include="Test References\harvestsharp.accessor" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\harvestsharp\harvestsharp.csproj">
+    <ProjectReference Include="..\HarvestSharp\HarvestSharp.csproj">
       <Project>{815EF8BD-75DF-411A-85B9-4946987DEC1D}</Project>
-      <Name>harvestsharp</Name>
+      <Name>HarvestSharp</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
